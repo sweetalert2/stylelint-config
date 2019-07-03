@@ -14,9 +14,12 @@ yarn add @sweetalert2/stylelint-config
 
 ## .stylelintrc
 
-```json
+```js
 {
-  "extends": "@sweetalert2/stylelint-config"
+  "extends": "@sweetalert2/stylelint-config",
+  "rules": {
+    // Additional, per-project rules...
+  }
 }
 ```
 
