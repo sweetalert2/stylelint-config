@@ -5,6 +5,9 @@
   "repository": "sweetalert2/stylelint-config",
   "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "peerDependencies": {
     "stylelint": "^10.0.0"
   },
