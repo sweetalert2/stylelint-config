@@ -1,0 +1,18 @@
+language: node_js
+dist: xenial
+node_js: lts/*
+sudo: true
+
+# limit the Travis 'build on push' feature to master and dist branches only
+branches:
+  only:
+   - master
+
+script:
+  # run automated release process with semantic-release
+  - yarn global add semantic-release@16.0.0-beta.18 @semantic-release/changelog@3 @semantic-release/git@7.1.0-beta.3
+  - semantic-release
+
+notifications:
+  email:
+    on_success: never
