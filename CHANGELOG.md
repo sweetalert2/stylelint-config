@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/sweetalert2/stylelint-config/compare/v1.1.0...v1.1.1) (2019-07-05)
+
+
+### Bug Fixes
+
+* remove unused declaration-empty-line-before rule, add more tests ([b0b2956](https://github.com/sweetalert2/stylelint-config/commit/b0b2956))
+
 # [1.1.0](https://github.com/sweetalert2/stylelint-config/compare/v1.0.4...v1.1.0) (2019-07-05)
 
 
