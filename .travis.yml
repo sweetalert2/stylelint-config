@@ -7,6 +7,7 @@ sudo: true
 branches:
   only:
    - master
+   - /^greenkeeper/.*$/
 
 script:
   # run automated release process with semantic-release
