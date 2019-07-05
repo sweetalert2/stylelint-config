@@ -1,6 +1,6 @@
 # stylelint shareable config for the [SweetAlert2](https://github.com/sweetalert2/sweetalert2) SCSS coding style
 
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/sweetalert2/stylelint-config/blob/master/CHANGELOG.md)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/sweetalert2/stylelint-config/blob/master/CHANGELOG.md) [![Greenkeeper badge](https://badges.greenkeeper.io/sweetalert2/stylelint-config.svg)](https://greenkeeper.io/)
 
 SCSS linting rules, this extends the basic stylelint rules for use with [SweetAlert2](https://github.com/sweetalert2/sweetalert2)'s projects.
 
