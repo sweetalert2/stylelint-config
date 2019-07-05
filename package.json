@@ -8,6 +8,9 @@
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "test": "bron test/*.js"
+  },
   "peerDependencies": {
     "stylelint": "^10.0.0"
   },
@@ -15,5 +18,9 @@
     "stylelint-config-standard": "^18.3.0",
     "stylelint-order": "^3.0.0",
     "stylelint-scss": "^3.9.0"
+  },
+  "devDependencies": {
+    "bron": "^1.0.2",
+    "stylelint": "^10.1.0"
   }
 }
