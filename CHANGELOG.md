@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/sweetalert2/stylelint-config/compare/v1.0.4...v1.1.0) (2019-07-05)
+
+
+### Features
+
+* add stylelint-csstree-validator ([1269b5d](https://github.com/sweetalert2/stylelint-config/commit/1269b5d))
+
 ## [1.0.4](https://github.com/sweetalert2/stylelint-config/compare/v1.0.3...v1.0.4) (2019-07-05)
 
 
