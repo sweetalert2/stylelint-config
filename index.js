@@ -11,7 +11,6 @@ module.exports = {
   "rules": {
     "at-rule-no-unknown": null,
     "csstree/validator": true,
-    "declaration-empty-line-before": null,
     "number-leading-zero": null,
     "no-descending-specificity": null,
     "scss/no-duplicate-dollar-variables": true,
