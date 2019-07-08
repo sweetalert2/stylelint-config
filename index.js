@@ -8,6 +8,9 @@ module.exports = {
     "stylelint-order",
     "stylelint-scss"
   ],
+  "ignoreFiles": [
+    "**/*.js"
+  ],
   "rules": {
     "at-rule-no-unknown": null,
     "csstree/validator": true,
