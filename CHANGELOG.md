@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/sweetalert2/stylelint-config/compare/v1.1.2...v1.1.3) (2019-07-08)
+
+
+### Bug Fixes
+
+* ignore js files ([8193cf2](https://github.com/sweetalert2/stylelint-config/commit/8193cf2))
+
 ## [1.1.2](https://github.com/sweetalert2/stylelint-config/compare/v1.1.1...v1.1.2) (2019-07-05)
 
 
