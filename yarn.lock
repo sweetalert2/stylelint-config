@@ -516,10 +516,10 @@ css-property-sort-order-smacss@^2.1.3:
   resolved "https://registry.yarnpkg.com/css-property-sort-order-smacss/-/css-property-sort-order-smacss-2.1.3.tgz#b9cf1753b3612ee7d18fe99224f483353ea38e53"
   integrity sha512-tMGlBxcfQq5VYmMFp4tGqxkNeXDBmlGbyuuz1FFGRvCUj9CvocShe23d4kFyfxW6JMlhlBVfnZRa8AO8kgceJA==
 
-css-tree@1.0.0-alpha.31:
-  version "1.0.0-alpha.31"
-  resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.0.0-alpha.31.tgz#abad61a391d3bd18d219ce1cf0766efcd670ef2d"
-  integrity sha512-FSOxWGZzajWgLMtxfLfTtCTjbCyn4nq0rbZyNZANu3GBZuUbqZAe6O/wFV5o5BMp3aBtHNYRsy+ABWD6GfB7AA==
+css-tree@1.0.0-alpha.32:
+  version "1.0.0-alpha.32"
+  resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.0.0-alpha.32.tgz#03747995109a74c350779844aa4454dfd7f199f1"
+  integrity sha512-4Kw4GxOl9OD2hWuATVufb9Ej3WRx01z1KrvV8/tRq9FShMpZ2+CYSjXm8XULHp0Oc9fuoQ47Ap+gqkzoQfVzbw==
   dependencies:
     mdn-data "2.0.4"
     source-map "^0.5.3"
@@ -2171,12 +2171,12 @@ stylelint-config-standard@^18.3.0:
   dependencies:
     stylelint-config-recommended "^2.2.0"
 
-stylelint-csstree-validator@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/stylelint-csstree-validator/-/stylelint-csstree-validator-1.5.0.tgz#b12fe1aac5a84381241371a290f35dcd188965ba"
-  integrity sha512-JWxfHllmMxdU8uIcX4Eh29Rl4Tfou0tRfT9mZSUZL/bLLe8NWZmJ05XlSznhnPTohANbqQ5upTNJg+WiFGOhZQ==
+stylelint-csstree-validator@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/stylelint-csstree-validator/-/stylelint-csstree-validator-1.5.1.tgz#71dc7894ad7bea3180269a5177c931fa1e05aaf9"
+  integrity sha512-3bIlyaYKImbSHOR01MrjJa6m3eEn3x2xpSNtVZBbW9EO2V8bdLzDUMInbv9kEUvMMJU9A6UIKxZlDxPbXkiBog==
   dependencies:
-    css-tree "1.0.0-alpha.31"
+    css-tree "1.0.0-alpha.32"
 
 stylelint-order@^3.0.0:
   version "3.0.0"
