@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/sweetalert2/stylelint-config/compare/v1.1.5...v1.1.6) (2019-07-30)
+
+
+### Bug Fixes
+
+* ignore ts files ([ee167c0](https://github.com/sweetalert2/stylelint-config/commit/ee167c0))
+
 ## [1.1.5](https://github.com/sweetalert2/stylelint-config/compare/v1.1.4...v1.1.5) (2019-07-11)
 
 
