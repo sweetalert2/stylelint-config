@@ -9,7 +9,8 @@ module.exports = {
     "stylelint-scss"
   ],
   "ignoreFiles": [
-    "**/*.js"
+    "**/*.js",
+    "**/*.ts"
   ],
   "rules": {
     "at-rule-no-unknown": null,
