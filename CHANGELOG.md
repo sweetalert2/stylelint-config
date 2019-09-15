@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/sweetalert2/stylelint-config/compare/v1.1.6...v1.1.7) (2019-09-15)
+
+
+### Bug Fixes
+
+* **package:** update stylelint-config-standard to version 19.0.0 ([#4](https://github.com/sweetalert2/stylelint-config/issues/4)) ([517609b](https://github.com/sweetalert2/stylelint-config/commit/517609b))
+
 ## [1.1.6](https://github.com/sweetalert2/stylelint-config/compare/v1.1.5...v1.1.6) (2019-07-30)
 
 
