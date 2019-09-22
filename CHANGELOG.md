@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/sweetalert2/stylelint-config/compare/v1.1.7...v1.1.8) (2019-09-22)
+
+
+### Bug Fixes
+
+* bump stylelint to ^11.0.0 in peerDependencies ([ed0fef5](https://github.com/sweetalert2/stylelint-config/commit/ed0fef5))
+
 ## [1.1.7](https://github.com/sweetalert2/stylelint-config/compare/v1.1.6...v1.1.7) (2019-09-15)
 
 
