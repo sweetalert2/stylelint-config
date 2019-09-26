@@ -15,7 +15,7 @@ module.exports = {
     '@semantic-release/npm',
     {
       path: '@semantic-release/exec',
-      cmd: "echo '//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}' > .npmrc"
+      cmd: "./tools/prepare-npmrc-for-github-registry.sh"
     },
     '@semantic-release/npm',
     '@semantic-release/github',
