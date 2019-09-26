@@ -13,6 +13,11 @@ module.exports = {
   ],
   publish: [
     '@semantic-release/npm',
+    {
+      path: '@semantic-release/exec',
+      cmd: "echo '//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}' > .npmrc"
+    },
+    '@semantic-release/npm',
     '@semantic-release/github',
   ],
   success: [
