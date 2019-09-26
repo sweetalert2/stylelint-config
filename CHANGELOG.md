@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/sweetalert2/stylelint-config/compare/v1.1.10...v1.1.11) (2019-09-26)
+
+
+### Bug Fixes
+
+* add publishConfig to package.json before publishing to GitHub actions ([0c2827e](https://github.com/sweetalert2/stylelint-config/commit/0c2827e))
+
 ## [1.1.10](https://github.com/sweetalert2/stylelint-config/compare/v1.1.9...v1.1.10) (2019-09-26)
 
 
