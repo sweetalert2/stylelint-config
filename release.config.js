@@ -15,9 +15,8 @@ module.exports = {
     '@semantic-release/npm',
     {
       path: '@semantic-release/exec',
-      cmd: "./tools/prepare-npmrc-for-github-registry.sh"
+      cmd: "./tools/publish-to-github-registry.sh"
     },
-    '@semantic-release/npm',
     '@semantic-release/github',
   ],
   success: [
