@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/sweetalert2/stylelint-config/compare/v1.1.8...v1.1.9) (2019-09-26)
+
+
+### Bug Fixes
+
+* publish to npm and GitHub registries ([12e686b](https://github.com/sweetalert2/stylelint-config/commit/12e686b))
+
 ## [1.1.8](https://github.com/sweetalert2/stylelint-config/compare/v1.1.7...v1.1.8) (2019-09-22)
 
 
