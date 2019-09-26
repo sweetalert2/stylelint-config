@@ -1,3 +1,10 @@
+## [1.1.12](https://github.com/sweetalert2/stylelint-config/compare/v1.1.11...v1.1.12) (2019-09-26)
+
+
+### Bug Fixes
+
+* prepare-npmrc-for-github-registry.sh -> publish-to-github-registry.sh ([ffaec3e](https://github.com/sweetalert2/stylelint-config/commit/ffaec3e))
+
 ## [1.1.11](https://github.com/sweetalert2/stylelint-config/compare/v1.1.10...v1.1.11) (2019-09-26)
 
 
