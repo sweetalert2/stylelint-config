@@ -13,10 +13,6 @@ module.exports = {
   ],
   publish: [
     '@semantic-release/npm',
-    {
-      path: '@semantic-release/exec',
-      cmd: "./tools/publish-to-github-registry.sh"
-    },
     '@semantic-release/github',
   ],
   success: [
