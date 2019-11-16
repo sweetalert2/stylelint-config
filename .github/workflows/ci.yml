@@ -26,4 +26,4 @@ jobs:
       run: |
         yarn add --dev semantic-release@16.0.0-beta.31 @semantic-release/changelog@3 @semantic-release/exec@3.4.0-beta.6 @semantic-release/git@7.1.0-beta.8
         git checkout package.json # because yarn doesn't have --no-save
-        ./node_modules/.bin/semantic-release
+        yarn semantic-release
