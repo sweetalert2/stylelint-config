@@ -1,3 +1,10 @@
+## [1.1.18](https://github.com/sweetalert2/stylelint-config/compare/v1.1.17...v1.1.18) (2019-11-16)
+
+
+### Bug Fixes
+
+* use semantic-release-action ([6e595ff](https://github.com/sweetalert2/stylelint-config/commit/6e595fffbe6e64bb8cfb9ae5841604e7e1d123e7))
+
 ## [1.1.17](https://github.com/sweetalert2/stylelint-config/compare/v1.1.16...v1.1.17) (2019-11-16)
 
 
