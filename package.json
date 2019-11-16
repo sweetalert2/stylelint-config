@@ -9,8 +9,7 @@
     "index.js"
   ],
   "scripts": {
-    "test": "bron test/*.js",
-    "semantic-release": "semantic-release"
+    "test": "bron test/*.js"
   },
   "peerDependencies": {
     "stylelint": "^12.0.0"
