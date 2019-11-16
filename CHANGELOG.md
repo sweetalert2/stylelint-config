@@ -1,3 +1,10 @@
+## [1.1.19](https://github.com/sweetalert2/stylelint-config/compare/v1.1.18...v1.1.19) (2019-11-16)
+
+
+### Bug Fixes
+
+* remove tools/publish-to-github-registry.sh ([92eda04](https://github.com/sweetalert2/stylelint-config/commit/92eda040a966b91dab9d71fb9b971ae72efa59db))
+
 ## [1.1.18](https://github.com/sweetalert2/stylelint-config/compare/v1.1.17...v1.1.18) (2019-11-16)
 
 
