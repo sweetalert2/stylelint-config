@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/sweetalert2/stylelint-config/compare/v1.1.15...v1.1.16) (2019-11-16)
+
+
+### Bug Fixes
+
+* release ([516553e](https://github.com/sweetalert2/stylelint-config/commit/516553e6cac079aec06544eadd8b8cee54f675aa))
+
 ## [1.1.15](https://github.com/sweetalert2/stylelint-config/compare/v1.1.14...v1.1.15) (2019-11-16)
 
 
