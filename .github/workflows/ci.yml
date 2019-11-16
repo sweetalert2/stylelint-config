@@ -20,6 +20,7 @@ jobs:
       run: yarn test
 
     - name: Run automated release process with semantic-release
+      if: github.event_name == 'push'
       uses: cycjimmy/semantic-release-action@v2
       with:
         extra_plugins: |
