@@ -1,3 +1,10 @@
+## [1.1.20](https://github.com/sweetalert2/stylelint-config/compare/v1.1.19...v1.1.20) (2019-11-16)
+
+
+### Bug Fixes
+
+* run semantic-release only for push events (on master) ([fc44e0b](https://github.com/sweetalert2/stylelint-config/commit/fc44e0b8f8debe3eac62f392d4d071c3eb06709e))
+
 ## [1.1.19](https://github.com/sweetalert2/stylelint-config/compare/v1.1.18...v1.1.19) (2019-11-16)
 
 
