@@ -1,3 +1,10 @@
+## [1.1.21](https://github.com/sweetalert2/stylelint-config/compare/v1.1.20...v1.1.21) (2019-11-16)
+
+
+### Bug Fixes
+
+* add skip ci support ([e99a9dc](https://github.com/sweetalert2/stylelint-config/commit/e99a9dc881cf26b763f0e9354494d5686477dded))
+
 ## [1.1.20](https://github.com/sweetalert2/stylelint-config/compare/v1.1.19...v1.1.20) (2019-11-16)
 
 
