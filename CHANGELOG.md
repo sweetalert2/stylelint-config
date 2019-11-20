@@ -1,3 +1,10 @@
+## [1.1.22](https://github.com/sweetalert2/stylelint-config/compare/v1.1.21...v1.1.22) (2019-11-20)
+
+
+### Bug Fixes
+
+* bump yarn.lock ([4e249a4](https://github.com/sweetalert2/stylelint-config/commit/4e249a435ed8f147aa484e09a30bc22ec0927da6))
+
 ## [1.1.21](https://github.com/sweetalert2/stylelint-config/compare/v1.1.20...v1.1.21) (2019-11-16)
 
 
