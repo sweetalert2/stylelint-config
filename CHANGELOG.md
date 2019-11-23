@@ -1,3 +1,10 @@
+## [1.1.23](https://github.com/sweetalert2/stylelint-config/compare/v1.1.22...v1.1.23) (2019-11-23)
+
+
+### Bug Fixes
+
+* bump stylelint-scss ([b3959ca](https://github.com/sweetalert2/stylelint-config/commit/b3959ca7afa26a055efd07997643f42b7beeb040))
+
 ## [1.1.22](https://github.com/sweetalert2/stylelint-config/compare/v1.1.21...v1.1.22) (2019-11-20)
 
 
