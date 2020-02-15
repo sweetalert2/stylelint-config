@@ -1,3 +1,10 @@
+## [1.1.25](https://github.com/sweetalert2/stylelint-config/compare/v1.1.24...v1.1.25) (2020-02-15)
+
+
+### Bug Fixes
+
+* bump deps ([749aaf8](https://github.com/sweetalert2/stylelint-config/commit/749aaf8a8489f37725620ef05c8351a77d36a7e0))
+
 ## [1.1.24](https://github.com/sweetalert2/stylelint-config/compare/v1.1.23...v1.1.24) (2020-01-19)
 
 
