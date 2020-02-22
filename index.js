@@ -18,5 +18,6 @@ module.exports = {
     "number-leading-zero": null,
     "no-descending-specificity": null,
     "scss/no-duplicate-dollar-variables": true,
+    "value-keyword-case": null
   }
 }
