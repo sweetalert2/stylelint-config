@@ -23,7 +23,7 @@ test('order/properties-order (stylelint-config-property-sort-order-smacss)', asy
     config,
   })
   assert.strictEqual(output.results[0].warnings.length, 1)
-  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Expected "top" to come before "color" (order/properties-order)')
+  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Expected "top" to come before "color" in group "box" (order/properties-order)')
 })
 
 test('csstree/validator (stylelint-csstree-validator)', async () => {
