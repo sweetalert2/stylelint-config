@@ -1,3 +1,10 @@
+## [1.1.28](https://github.com/sweetalert2/stylelint-config/compare/v1.1.27...v1.1.28) (2020-10-27)
+
+
+### Bug Fixes
+
+* bump csstree to v1.0.0 ([289de56](https://github.com/sweetalert2/stylelint-config/commit/289de5611a2c46df4912fe6325c2787aa34ff98f))
+
 ## [1.1.27](https://github.com/sweetalert2/stylelint-config/compare/v1.1.26...v1.1.27) (2020-07-19)
 
 
