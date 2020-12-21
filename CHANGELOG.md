@@ -1,3 +1,10 @@
+## [1.1.29](https://github.com/sweetalert2/stylelint-config/compare/v1.1.28...v1.1.29) (2020-12-21)
+
+
+### Bug Fixes
+
+* bump stylelint-config-property-sort-order-smacss ([aeee417](https://github.com/sweetalert2/stylelint-config/commit/aeee41773d2596d2a20abb020a3965904edebcfe))
+
 ## [1.1.28](https://github.com/sweetalert2/stylelint-config/compare/v1.1.27...v1.1.28) (2020-10-27)
 
 
