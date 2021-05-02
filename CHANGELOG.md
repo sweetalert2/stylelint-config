@@ -1,3 +1,10 @@
+## [1.1.30](https://github.com/sweetalert2/stylelint-config/compare/v1.1.29...v1.1.30) (2021-05-02)
+
+
+### Bug Fixes
+
+* update stylelint-config-standard ([83b866b](https://github.com/sweetalert2/stylelint-config/commit/83b866b7a07f679f8b32e93fec1111eed02e925b))
+
 ## [1.1.29](https://github.com/sweetalert2/stylelint-config/compare/v1.1.28...v1.1.29) (2020-12-21)
 
 
