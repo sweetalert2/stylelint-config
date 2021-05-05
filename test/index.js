@@ -4,6 +4,15 @@ const assert = require('assert').strict
 
 const config = require('../index.js')
 
+test('there should be no errors here', async () => {
+  const output = await stylelint.lint({
+    code: '$a: 1;\n',
+    config,
+    syntax: 'scss'
+  })
+  assert.strictEqual(output.results[0].errored, false)
+})
+
 test('declaration-block-single-line-max-declarations (stylelint-config-standard)', async () => {
   const output = await stylelint.lint({
     code: 'a { top: 0; color: red; }\n',
