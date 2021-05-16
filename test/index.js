@@ -6,7 +6,13 @@ const config = require('../index.js')
 
 test('there should be no errors here', async () => {
   const output = await stylelint.lint({
-    code: '$a: 1;\n',
+    code: `$a: 1;\n
+body {
+  font-size: 1rem;
+}
+
+@import '~sweetalert2/src/sweetalert2';
+`,
     config,
     syntax: 'scss'
   })
