@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/sweetalert2/stylelint-config/compare/v1.1.30...v1.1.31) (2021-05-16)
+
+
+### Bug Fixes
+
+* disable no-invalid-position-at-import-rule ([da83537](https://github.com/sweetalert2/stylelint-config/commit/da83537e8fc80f649eb47b2a46f19703ad9ae0f1))
+
 ## [1.1.30](https://github.com/sweetalert2/stylelint-config/compare/v1.1.29...v1.1.30) (2021-05-02)
 
 
