@@ -17,6 +17,7 @@ module.exports = {
     "csstree/validator": true,
     "number-leading-zero": null,
     "no-descending-specificity": null,
+    "no-invalid-position-at-import-rule": null,
     "scss/no-duplicate-dollar-variables": true,
     "value-keyword-case": null
   }
