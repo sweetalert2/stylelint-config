@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/sweetalert2/stylelint-config/compare/v2.0.0...v2.0.1) (2021-11-03)
+
+
+### Bug Fixes
+
+* disable alpha-value-notation and color-function-notation rules ([86c3c75](https://github.com/sweetalert2/stylelint-config/commit/86c3c756c9de1a55786553f35c7b1f71597d8515))
+
 # [2.0.0](https://github.com/sweetalert2/stylelint-config/compare/v1.1.31...v2.0.0) (2021-11-03)
 
 
