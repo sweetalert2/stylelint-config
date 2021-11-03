@@ -12,7 +12,8 @@
     "test": "bron test/*.js"
   },
   "peerDependencies": {
-    "stylelint": "^14.0.0"
+    "stylelint": "^14.0.0",
+    "postcss-scss": "*"
   },
   "dependencies": {
     "stylelint-config-property-sort-order-smacss": "^8.0.0",
