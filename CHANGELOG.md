@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/sweetalert2/stylelint-config/compare/v2.0.2...v2.0.3) (2021-11-03)
+
+
+### Bug Fixes
+
+* disable keyframes-name-pattern, max-line-length and string-quotes rules ([34c784f](https://github.com/sweetalert2/stylelint-config/commit/34c784f484bbe55788aca523fe662b0915b04e99))
+
 ## [2.0.2](https://github.com/sweetalert2/stylelint-config/compare/v2.0.1...v2.0.2) (2021-11-03)
 
 
