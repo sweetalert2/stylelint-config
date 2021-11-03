@@ -12,6 +12,7 @@ module.exports = {
     "**/*.js",
     "**/*.ts"
   ],
+  "customSyntax": "postcss-scss",
   "rules": {
     "alpha-value-notation": null,
     "at-rule-no-unknown": null,
