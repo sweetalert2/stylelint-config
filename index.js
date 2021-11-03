@@ -13,7 +13,9 @@ module.exports = {
     "**/*.ts"
   ],
   "rules": {
+    "alpha-value-notation": null,
     "at-rule-no-unknown": null,
+    "color-function-notation": null,
     "csstree/validator": true,
     "number-leading-zero": null,
     "no-descending-specificity": null,
