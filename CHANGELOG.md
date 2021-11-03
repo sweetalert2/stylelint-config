@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/sweetalert2/stylelint-config/compare/v2.0.1...v2.0.2) (2021-11-03)
+
+
+### Bug Fixes
+
+* customSyntax postcss-scss ([1375e3a](https://github.com/sweetalert2/stylelint-config/commit/1375e3aad7c90737710283b6339a515b66ae48c8))
+
 ## [2.0.1](https://github.com/sweetalert2/stylelint-config/compare/v2.0.0...v2.0.1) (2021-11-03)
 
 
