@@ -11,10 +11,10 @@ body {
   font-size: 1rem;
 }
 
-@import '~sweetalert2/src/sweetalert2';
+@import "~sweetalert2/src/sweetalert2";
 `,
     config,
-    syntax: 'scss'
+    customSyntax: 'postcss-scss'
   })
   assert.strictEqual(output.results[0].errored, false)
 })
