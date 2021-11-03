@@ -18,10 +18,13 @@ module.exports = {
     "at-rule-no-unknown": null,
     "color-function-notation": null,
     "csstree/validator": true,
+    "keyframes-name-pattern": null,
+    "max-line-length": null,
     "number-leading-zero": null,
     "no-descending-specificity": null,
     "no-invalid-position-at-import-rule": null,
     "scss/no-duplicate-dollar-variables": true,
+    "string-quotes": null,
     "value-keyword-case": null
   }
 }
