@@ -19,11 +19,11 @@
     "stylelint-config-property-sort-order-smacss": "^8.0.0",
     "stylelint-config-standard": "^23.0.0",
     "stylelint-csstree-validator": "^1.5.1",
-    "stylelint-scss": "^4.0.0"
+    "stylelint-scss": "^4.0.1"
   },
   "devDependencies": {
     "bron": "^1.0.2",
     "postcss-scss": "^4.0.2",
-    "stylelint": "^14.0.0"
+    "stylelint": "^14.1.0"
   }
 }
