@@ -128,10 +128,10 @@ braces@^3.0.1:
   dependencies:
     fill-range "^7.0.1"
 
-bron@^1.0.2:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/bron/-/bron-1.1.1.tgz#5f369c92b9bce29175a420f91781c9f3df9d0864"
-  integrity sha512-lswaTaQ6At5yq0AkpuPYv1Y0b//rdsQZscLnvs72LsDLtNeiut2ZWuLTfwnxzuOmfQyd7LYcXkrl9PK4uIqNVA==
+bron@^2.0.0:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/bron/-/bron-2.0.3.tgz#979399276a04bf885f1c4c9c95a2356685a34626"
+  integrity sha512-SHNU3xaXCN+02LOoE+lGijKGUDXcasf8qTBnp9Wn464AYIgKz3a0K7LYC9EyHA6vvws+/uZEpoELOG1N5GbYSQ==
 
 callsites@^3.0.0:
   version "3.1.0"
@@ -213,13 +213,13 @@ css-property-sort-order-smacss@~2.1.3:
   resolved "https://registry.yarnpkg.com/css-property-sort-order-smacss/-/css-property-sort-order-smacss-2.1.3.tgz#b9cf1753b3612ee7d18fe99224f483353ea38e53"
   integrity sha512-tMGlBxcfQq5VYmMFp4tGqxkNeXDBmlGbyuuz1FFGRvCUj9CvocShe23d4kFyfxW6JMlhlBVfnZRa8AO8kgceJA==
 
-css-tree@^1.0.0:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.1.3.tgz#eb4870fb6fd7707327ec95c2ff2ab09b5e8db91d"
-  integrity sha512-tRpdppF7TRazZrjJ6v3stzv93qxRcSsFmW6cX0Zm2NVKpxE1WV1HblnghVv9TreireHkqI/VDEsfolRF1p6y7Q==
+css-tree@^2.0.1:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-2.0.2.tgz#19528be048fc3bf2940c709948aed03b120bf58b"
+  integrity sha512-eMdDh8/KKSYSlsRXBS1KoCE981Q/UZKibpZi4xWSBA0wEhQAbKF9j34XSPC5zM79d5TTbKZ8eF0bz6d+ewcY2A==
   dependencies:
-    mdn-data "2.0.14"
-    source-map "^0.6.1"
+    mdn-data "2.0.23"
+    source-map-js "^1.0.1"
 
 cssesc@^3.0.0:
   version "3.0.0"
@@ -632,10 +632,10 @@ mathml-tag-names@^2.1.3:
   resolved "https://registry.yarnpkg.com/mathml-tag-names/-/mathml-tag-names-2.1.3.tgz#4ddadd67308e780cf16a47685878ee27b736a0a3"
   integrity sha512-APMBEanjybaPzUrfqU0IMU5I0AswKMH7k8OTLs0vvV4KZpExkTkY87nR/zpbuTPj+gARop7aGUbl11pnDfW6xg==
 
-mdn-data@2.0.14:
-  version "2.0.14"
-  resolved "https://registry.yarnpkg.com/mdn-data/-/mdn-data-2.0.14.tgz#7113fc4281917d63ce29b43446f701e68c25ba50"
-  integrity sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==
+mdn-data@2.0.23:
+  version "2.0.23"
+  resolved "https://registry.yarnpkg.com/mdn-data/-/mdn-data-2.0.23.tgz#dfb6c41e50a0edb808cf340973ab29321b70808e"
+  integrity sha512-IonVb7pfla2U4zW8rc7XGrtgq11BvYeCxWN8HS+KFBnLDE7XDK9AAMVhRuG6fj9BBsjc69Fqsp6WEActEdNTDQ==
 
 meow@^9.0.0:
   version "9.0.0"
@@ -969,10 +969,10 @@ source-map-js@^0.6.2:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-0.6.2.tgz#0bb5de631b41cfbda6cfba8bd05a80efdfd2385e"
   integrity sha512-/3GptzWzu0+0MBQFrDKzw/DvvMTUORvgY6k6jd/VS6iCR4RDTKWH6v6WPwQoUO8667uQEf9Oe38DxAYWY5F/Ug==
 
-source-map@^0.6.1:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
-  integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
+source-map-js@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.1.tgz#a1741c131e3c77d048252adfa24e23b908670caf"
+  integrity sha512-4+TN2b3tqOCd/kaGRJ/sTYA0tR0mdXx26ipdolxcwtJVqEnqNYvlCAt1q3ypy4QMlYus+Zh34RNtYLoq2oQ4IA==
 
 spdx-correct@^3.0.0:
   version "3.1.1"
@@ -1046,19 +1046,19 @@ stylelint-config-recommended@^6.0.0:
   resolved "https://registry.yarnpkg.com/stylelint-config-recommended/-/stylelint-config-recommended-6.0.0.tgz#fd2523a322836005ad9bf473d3e5534719c09f9d"
   integrity sha512-ZorSSdyMcxWpROYUvLEMm0vSZud2uB7tX1hzBZwvVY9SV/uly4AvvJPPhCcymZL3fcQhEQG5AELmrxWqtmzacw==
 
-stylelint-config-standard@^23.0.0:
-  version "23.0.0"
-  resolved "https://registry.yarnpkg.com/stylelint-config-standard/-/stylelint-config-standard-23.0.0.tgz#4ad58c74804c544cb4d30667c21a30ab14d1c17d"
-  integrity sha512-8PDlk+nWuc1T66nVaODTdVodN0pjuE5TBlopi39Lt9EM36YJsRhqttMyUhnS78oc/59Q6n8iw2GJB4QcoFqtRg==
+stylelint-config-standard@^24.0.0:
+  version "24.0.0"
+  resolved "https://registry.yarnpkg.com/stylelint-config-standard/-/stylelint-config-standard-24.0.0.tgz#6823f207ab997ae0b641f9a636d007cc44d77541"
+  integrity sha512-+RtU7fbNT+VlNbdXJvnjc3USNPZRiRVp/d2DxOF/vBDDTi0kH5RX2Ny6errdtZJH3boO+bmqIYEllEmok4jiuw==
   dependencies:
     stylelint-config-recommended "^6.0.0"
 
-stylelint-csstree-validator@^1.5.1:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/stylelint-csstree-validator/-/stylelint-csstree-validator-1.9.0.tgz#9f7971d87bf525f54e20434329fa5e27ee4e9491"
-  integrity sha512-fVbtWDEWzux/bZSPBk9tD/bvyc8bSmb52BvUDjcduOzXqKqOyFHUvFayVr9ic88l8KJEVV0Ujab9ah5oTdX4Uw==
+stylelint-csstree-validator@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/stylelint-csstree-validator/-/stylelint-csstree-validator-2.0.0.tgz#1bd0b609596e3d5d78c3f4f0e1fe35e184f7e774"
+  integrity sha512-nAnG4CynM4P4POUCGVz/PnrByKcgdD2isKlmAccoxykkaH1IuEposiOJcUQlAp/kXD/T0ZRwlDbqMGgrHRbhog==
   dependencies:
-    css-tree "^1.0.0"
+    css-tree "^2.0.1"
 
 stylelint-order@^5.0.0:
   version "5.0.0"
