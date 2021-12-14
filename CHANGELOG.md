@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/sweetalert2/stylelint-config/compare/v2.0.4...v2.0.5) (2021-12-14)
+
+
+### Bug Fixes
+
+* index.js -> index.json ([57d0c5e](https://github.com/sweetalert2/stylelint-config/commit/57d0c5ea7abe6bd7fe067925ef002b2fbcd49315))
+
 ## [2.0.4](https://github.com/sweetalert2/stylelint-config/compare/v2.0.3...v2.0.4) (2021-12-14)
 
 
