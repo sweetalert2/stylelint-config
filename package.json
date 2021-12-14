@@ -7,7 +7,7 @@
   "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.json"
   ],
   "scripts": {
     "test": "bron test/*.js"
