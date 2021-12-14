@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/sweetalert2/stylelint-config/compare/v2.0.3...v2.0.4) (2021-12-14)
+
+
+### Bug Fixes
+
+* bump stylelint-csstree-validator and stylelint-config-standard ([3e37540](https://github.com/sweetalert2/stylelint-config/commit/3e37540684da78f080f55d08c83ebf48f43df2c5))
+
 ## [2.0.3](https://github.com/sweetalert2/stylelint-config/compare/v2.0.2...v2.0.3) (2021-11-03)
 
 
