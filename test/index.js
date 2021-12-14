@@ -1,8 +1,9 @@
-const stylelint = require('stylelint')
-const test = require('bron')
-const assert = require('assert').strict
+import stylelint from 'stylelint'
+import test from 'bron'
+import assert from 'assert'
+import { readFileSync } from 'fs';
 
-const config = require('../index.js')
+const config = JSON.parse((readFileSync('index.js')).toString().replace('module.exports = ', ''))
 
 test('there should be no errors here', async () => {
   const output = await stylelint.lint({
@@ -47,7 +48,7 @@ test('csstree/validator (stylelint-csstree-validator)', async () => {
     config,
   })
   assert.strictEqual(output.results[0].warnings.length, 1)
-  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Invalid value for `max-width` (csstree/validator)')
+  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Invalid value for "max-width" (csstree/validator)')
 })
 
 test('scss/no-duplicate-dollar-variables (stylelint-scss)', async () => {
