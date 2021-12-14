@@ -1,9 +1,9 @@
 import stylelint from 'stylelint'
 import test from 'bron'
 import assert from 'assert'
-import { readFileSync } from 'fs';
+import fs from 'fs';
 
-const config = JSON.parse((readFileSync('index.js')).toString().replace('module.exports = ', ''))
+const config = JSON.parse(fs.readFileSync('index.json'))
 
 test('there should be no errors here', async () => {
   const output = await stylelint.lint({
