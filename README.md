@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/sweetalert2/stylelint-config/workflows/build/badge.svg)](https://github.com/sweetalert2/stylelint-config/actions)
 [![npm version](https://img.shields.io/npm/v/@sweetalert2/stylelint-config.svg)](https://www.npmjs.com/package/@sweetalert2/stylelint-config)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/sweetalert2/stylelint-config/blob/master/CHANGELOG.md)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/sweetalert2/stylelint-config/blob/main/CHANGELOG.md)
 
 
 SCSS linting rules, this extends the basic stylelint rules for use with [SweetAlert2](https://github.com/sweetalert2/sweetalert2)'s projects.

@@ -13,12 +13,12 @@
     "test": "bron test/*.js"
   },
   "peerDependencies": {
-    "stylelint": "^14.0.0",
-    "postcss-scss": "*"
+    "postcss-scss": "*",
+    "stylelint": "^14.0.0"
   },
   "dependencies": {
-    "stylelint-config-property-sort-order-smacss": "^8.0.0",
-    "stylelint-config-standard": "^24.0.0",
+    "stylelint-config-property-sort-order-smacss": "^9.0.0",
+    "stylelint-config-standard": "^25.0.0",
     "stylelint-csstree-validator": "^2.0.0",
     "stylelint-scss": "^4.2.0"
   },
