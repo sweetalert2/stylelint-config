@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "bron": "^2.0.0",
-    "postcss-scss": "^4.0.3",
-    "stylelint": "^14.10.0"
+    "postcss-scss": "^4.0.5",
+    "stylelint": "^14.11.0"
   }
 }
