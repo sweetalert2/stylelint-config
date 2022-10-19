@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/sweetalert2/stylelint-config/compare/v2.1.0...v2.1.1) (2022-10-19)
+
+
+### Bug Fixes
+
+* disable function-no-unknown ([2934227](https://github.com/sweetalert2/stylelint-config/commit/2934227de16bb2cc45a0ef42e48f2cd6ec32427b))
+
 # [2.1.0](https://github.com/sweetalert2/stylelint-config/compare/v2.0.6...v2.1.0) (2022-10-19)
 
 
