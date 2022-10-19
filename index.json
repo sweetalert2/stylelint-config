@@ -21,6 +21,7 @@
     "csstree/validator": {
       "syntaxExtensions": ["sass"]
     },
+    "function-no-unknown": null,
     "import-notation": null,
     "keyframes-name-pattern": null,
     "max-line-length": null,
