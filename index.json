@@ -15,11 +15,13 @@
   "customSyntax": "postcss-scss",
   "rules": {
     "alpha-value-notation": null,
+    "annotation-no-unknown": null,
     "at-rule-no-unknown": null,
     "color-function-notation": null,
     "csstree/validator": {
       "syntaxExtensions": ["sass"]
     },
+    "import-notation": null,
     "keyframes-name-pattern": null,
     "max-line-length": null,
     "number-leading-zero": null,
