@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/sweetalert2/stylelint-config/compare/v2.1.1...v2.1.2) (2022-10-30)
+
+
+### Bug Fixes
+
+* move postcss and postcss-scss to deps ([92e9880](https://github.com/sweetalert2/stylelint-config/commit/92e9880b4f714566124204f1bcb7ff63b220e5ce))
+
 ## [2.1.1](https://github.com/sweetalert2/stylelint-config/compare/v2.1.0...v2.1.1) (2022-10-19)
 
 
