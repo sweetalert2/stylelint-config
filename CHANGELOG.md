@@ -1,3 +1,10 @@
+## [2.1.3](https://github.com/sweetalert2/stylelint-config/compare/v2.1.2...v2.1.3) (2023-02-16)
+
+
+### Bug Fixes
+
+* stylelint 15 ([29b7985](https://github.com/sweetalert2/stylelint-config/commit/29b7985048262f83c871a6ffb39699e1199aeb17))
+
 ## [2.1.2](https://github.com/sweetalert2/stylelint-config/compare/v2.1.1...v2.1.2) (2022-10-30)
 
 
