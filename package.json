@@ -13,7 +13,7 @@
     "test": "bron test/*.js"
   },
   "peerDependencies": {
-    "stylelint": "^14.0.0"
+    "stylelint": "^15.0.0"
   },
   "dependencies": {
     "postcss": "^8.4.18",
