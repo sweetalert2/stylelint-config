@@ -20,13 +20,13 @@ body {
   assert.strictEqual(output.results[0].errored, false)
 })
 
-test('declaration-block-single-line-max-declarations (stylelint-config-standard)', async () => {
+test('selector-type-case (stylelint-config-standard)', async () => {
   const output = await stylelint.lint({
-    code: 'a { top: 0; color: red; }\n',
+    code: '.white { color: #ffffff }\n',
     config,
   })
   assert.strictEqual(output.results[0].warnings.length, 1)
-  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Expected no more than 1 declaration (declaration-block-single-line-max-declarations)')
+  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Expected "#ffffff" to be "#fff" (color-hex-length)')
 })
 
 test('order/properties-order (stylelint-config-property-sort-order-smacss)', async () => {
