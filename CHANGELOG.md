@@ -1,3 +1,10 @@
+## [2.1.5](https://github.com/sweetalert2/stylelint-config/compare/v2.1.4...v2.1.5) (2023-02-16)
+
+
+### Bug Fixes
+
+* remove deprecated rules ([2d1befa](https://github.com/sweetalert2/stylelint-config/commit/2d1beface7e366828012072ffe008ccde901b9ee))
+
 ## [2.1.4](https://github.com/sweetalert2/stylelint-config/compare/v2.1.3...v2.1.4) (2023-02-16)
 
 
