@@ -1,3 +1,10 @@
+## [2.1.6](https://github.com/sweetalert2/stylelint-config/compare/v2.1.5...v2.1.6) (2023-02-26)
+
+
+### Bug Fixes
+
+* bump deps ([ebc1c6c](https://github.com/sweetalert2/stylelint-config/commit/ebc1c6c47b6b1a57b23485a71f49fa2373d61f1d))
+
 ## [2.1.5](https://github.com/sweetalert2/stylelint-config/compare/v2.1.4...v2.1.5) (2023-02-16)
 
 
