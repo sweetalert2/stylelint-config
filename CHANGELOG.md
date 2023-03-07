@@ -1,3 +1,10 @@
+## [2.1.8](https://github.com/sweetalert2/stylelint-config/compare/v2.1.7...v2.1.8) (2023-03-07)
+
+
+### Bug Fixes
+
+* ignore dollar signs (sass variables) in declaration-property-value-no-unknown ([969616c](https://github.com/sweetalert2/stylelint-config/commit/969616c386beaff2c8cbaa1d2fcbd76c0b6185ec))
+
 ## [2.1.7](https://github.com/sweetalert2/stylelint-config/compare/v2.1.6...v2.1.7) (2023-03-07)
 
 
