@@ -13,7 +13,11 @@
   ],
   "customSyntax": "postcss-scss",
   "rules": {
-    "declaration-property-value-no-unknown": true,
+    "declaration-property-value-no-unknown": [true, {
+      "ignoreProperties": {
+        "/.+/": "/.+\\$.+/"
+      }
+    }],
     "alpha-value-notation": null,
     "annotation-no-unknown": null,
     "at-rule-no-unknown": null,

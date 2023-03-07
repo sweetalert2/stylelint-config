@@ -44,7 +44,7 @@ test('order/properties-order (stylelint-config-property-sort-order-smacss)', asy
 
 test('declaration-property-value-no-unknown', async () => {
   const output = await stylelint.lint({
-    code: 'a { max-width: auto; }\n',
+    code: 'a { max-width: auto; box-shadow: 0 0 0 $red; }\n',
     config,
   })
   assert.strictEqual(output.results[0].warnings.length, 1)
