@@ -1,3 +1,10 @@
+## [2.1.7](https://github.com/sweetalert2/stylelint-config/compare/v2.1.6...v2.1.7) (2023-03-07)
+
+
+### Bug Fixes
+
+* get rid of stylelint-csstree-validator ([b17a7f4](https://github.com/sweetalert2/stylelint-config/commit/b17a7f48ca2608360aabffacfd591988e5f3b1a9))
+
 ## [2.1.6](https://github.com/sweetalert2/stylelint-config/compare/v2.1.5...v2.1.6) (2023-02-26)
 
 
