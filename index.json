@@ -4,7 +4,6 @@
     "stylelint-config-property-sort-order-smacss"
   ],
   "plugins": [
-    "stylelint-csstree-validator",
     "stylelint-order",
     "stylelint-scss"
   ],
@@ -14,13 +13,11 @@
   ],
   "customSyntax": "postcss-scss",
   "rules": {
+    "declaration-property-value-no-unknown": true,
     "alpha-value-notation": null,
     "annotation-no-unknown": null,
     "at-rule-no-unknown": null,
     "color-function-notation": null,
-    "csstree/validator": {
-      "syntaxExtensions": ["sass"]
-    },
     "function-no-unknown": null,
     "import-notation": null,
     "keyframes-name-pattern": null,

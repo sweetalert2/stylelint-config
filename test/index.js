@@ -42,13 +42,13 @@ test('order/properties-order (stylelint-config-property-sort-order-smacss)', asy
   assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Expected "top" to come before "color" in group "box" (order/properties-order)')
 })
 
-test('csstree/validator (stylelint-csstree-validator)', async () => {
+test('declaration-property-value-no-unknown', async () => {
   const output = await stylelint.lint({
     code: 'a { max-width: auto; }\n',
     config,
   })
   assert.strictEqual(output.results[0].warnings.length, 1)
-  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Invalid value for "max-width" (csstree/validator)')
+  assert.strictEqual(output.results[0].warnings[0].text.trim(), 'Unexpected unknown value "auto" for property "max-width" (declaration-property-value-no-unknown)')
 })
 
 test('scss/no-duplicate-dollar-variables (stylelint-scss)', async () => {
