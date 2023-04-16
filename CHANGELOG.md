@@ -1,3 +1,10 @@
+## [2.1.11](https://github.com/sweetalert2/stylelint-config/compare/v2.1.10...v2.1.11) (2023-04-16)
+
+
+### Bug Fixes
+
+* bump stylelint-config-standard to v33 ([23b84c6](https://github.com/sweetalert2/stylelint-config/commit/23b84c694659a0325d974e8f0408c6889e8e4567))
+
 ## [2.1.10](https://github.com/sweetalert2/stylelint-config/compare/v2.1.9...v2.1.10) (2023-04-13)
 
 
