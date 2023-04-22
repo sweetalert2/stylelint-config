@@ -10,7 +10,7 @@
     "index.json"
   ],
   "scripts": {
-    "test": "bron test/*.js"
+    "test": "node --test"
   },
   "peerDependencies": {
     "stylelint": "^15.0.0"
@@ -23,7 +23,6 @@
     "stylelint-scss": "^4.3.0"
   },
   "devDependencies": {
-    "bron": "^2.0.0",
     "stylelint": "^15.5.0"
   }
 }

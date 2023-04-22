@@ -1,7 +1,7 @@
-import stylelint from 'stylelint'
-import test from 'bron'
-import assert from 'assert'
+import { test, mock } from 'node:test';
+import assert from 'node:assert';
 import fs from 'fs';
+import stylelint from 'stylelint'
 
 const config = JSON.parse(fs.readFileSync('index.json'))
 

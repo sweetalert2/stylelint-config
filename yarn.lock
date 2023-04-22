@@ -148,11 +148,6 @@ braces@^3.0.2:
   dependencies:
     fill-range "^7.0.1"
 
-bron@^2.0.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/bron/-/bron-2.0.3.tgz#979399276a04bf885f1c4c9c95a2356685a34626"
-  integrity sha512-SHNU3xaXCN+02LOoE+lGijKGUDXcasf8qTBnp9Wn464AYIgKz3a0K7LYC9EyHA6vvws+/uZEpoELOG1N5GbYSQ==
-
 callsites@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/callsites/-/callsites-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
