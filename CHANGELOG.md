@@ -1,3 +1,10 @@
+## [2.1.12](https://github.com/sweetalert2/stylelint-config/compare/v2.1.11...v2.1.12) (2023-05-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v5 ([#39](https://github.com/sweetalert2/stylelint-config/issues/39)) ([006d168](https://github.com/sweetalert2/stylelint-config/commit/006d1680809ee4db7f424123325a89ae8fe9b26d))
+
 ## [2.1.11](https://github.com/sweetalert2/stylelint-config/compare/v2.1.10...v2.1.11) (2023-04-16)
 
 
