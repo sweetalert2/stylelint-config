@@ -1,3 +1,13 @@
+# [3.0.0](https://github.com/sweetalert2/stylelint-config/compare/v2.1.13...v3.0.0) (2023-12-22)
+
+
+* BREAKING CHANGE: Stylelint 16 ([33d2085](https://github.com/sweetalert2/stylelint-config/commit/33d208551b412893b1cfd902486b3ecd634d54a5))
+
+
+### BREAKING CHANGES
+
+* Stylelint 16
+
 ## [2.1.13](https://github.com/sweetalert2/stylelint-config/compare/v2.1.12...v2.1.13) (2023-07-19)
 
 
