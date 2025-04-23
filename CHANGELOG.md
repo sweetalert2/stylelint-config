@@ -1,3 +1,10 @@
+## [3.0.4](https://github.com/sweetalert2/stylelint-config/compare/v3.0.3...v3.0.4) (2025-04-23)
+
+
+### Bug Fixes
+
+* disable color-function-alias-notation ([862526b](https://github.com/sweetalert2/stylelint-config/commit/862526b7984db6725c202c7c200b4539b5dbe94f))
+
 ## [3.0.3](https://github.com/sweetalert2/stylelint-config/compare/v3.0.2...v3.0.3) (2025-04-20)
 
 
