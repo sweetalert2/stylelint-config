@@ -11,7 +11,7 @@ SCSS linting rules, this extends the basic stylelint rules for use with [SweetAl
 ## Installation
 
 ```sh
-yarn add @sweetalert2/stylelint-config
+npm install --save-dev @sweetalert2/stylelint-config
 ```
 
 
@@ -38,4 +38,4 @@ yarn add @sweetalert2/stylelint-config
 }
 ```
 
-which would allow you to lint your project via `yarn lint:scss`
+which would allow you to lint your project via `npm run lint:scss`
