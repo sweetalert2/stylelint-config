@@ -1,3 +1,10 @@
+## [3.0.7](https://github.com/sweetalert2/stylelint-config/compare/v3.0.6...v3.0.7) (2025-12-13)
+
+
+### Bug Fixes
+
+* set up releasing with trusted publishing ([e0010ef](https://github.com/sweetalert2/stylelint-config/commit/e0010ef4f87e0731f90066875f331b1566af418b))
+
 ## [3.0.6](https://github.com/sweetalert2/stylelint-config/compare/v3.0.5...v3.0.6) (2025-09-18)
 
 
