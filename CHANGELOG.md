@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/sweetalert2/stylelint-config/compare/v3.0.7...v3.1.0) (2026-01-25)
+
+
+### Features
+
+* support stylelint 17 ([c150c4f](https://github.com/sweetalert2/stylelint-config/commit/c150c4fb493116584ed055584079f6401a3247d0))
+
 ## [3.0.7](https://github.com/sweetalert2/stylelint-config/compare/v3.0.6...v3.0.7) (2025-12-13)
 
 
